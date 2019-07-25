@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Simple twitter bot.",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odiegohr/twitter-bot.git"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odiegohr/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/odiegohr/twitter-bot#readme"
+}
