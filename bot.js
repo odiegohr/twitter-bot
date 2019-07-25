@@ -10,5 +10,9 @@ var TwBot = new Twit({
 
 //Twittar alguma coisa:
 TwBot.post('statuses/update', { status: 'aehhh funciono' } )
+
+
+//Retwittar alguma coisa:
+TwBot.post('statuses/retweet/:id', { id: '1154509127365931009' } )
     
   
